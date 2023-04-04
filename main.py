@@ -552,7 +552,8 @@ if selected == "Contributors":
     st.subheader("Contributors")
 
 
-    st.write("Project Leads-  [Vaasu Bisht](https://github.com/vaasu2002) and [Eeman Majumder](https://github.com/Eeman1113)")
+    st.write("Project Leads -  [Vaasu Bisht](https://github.com/vaasu2002) and [Eeman Majumder](https://github.com/Eeman1113)")
+    st.write("Management and HR -  [Sakshi Sawarkar](https://www.linkedin.com/in/sakshi-sawarkar-8546681aa)")
     contributors = """
 
     Project Contributors in aplhabetical order:
@@ -568,7 +569,7 @@ if selected == "Contributors":
     9.	Ayushka Behere
     10.	Dhruvil Jain
     11.	Kshitij Singh
-    12.	Mansuriya Raj Kalpeshbhai
+    12.	Raj Mansuriya
     13.	Muskaan Bahri
     14.	Navneet Lamba 
     15.	Pranav Pratyush
@@ -582,7 +583,9 @@ if selected == "Contributors":
     23.	Shilpa Gollamudi
     24.	Sourav Dutta 
     25.	Srijeeta Mukherjee
-    26.	Wallace Ferreira
+    26.     Vimukta Dashora 
+    27.	Wallace Ferreira
+    
     """
 
     st.text(contributors)
